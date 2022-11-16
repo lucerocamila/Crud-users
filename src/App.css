@@ -277,6 +277,7 @@ text-align: start;
 }
 
 .main h3{
+    padding-top: 2rem;
     margin-bottom: 1%;
     color:white ;
     border-bottom: rgba(209, 211, 210, 0.7) solid thin;
