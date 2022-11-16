@@ -15,10 +15,6 @@ body{
     background: rgba(6, 12, 91, 0.729);
 }
 
-* {
-    scrollbar-width: thin;
-    scrollbar-color: rgb(190, 64, 190) rgb(20, 41, 126);
-  }
   
   /* Works on Chrome, Edge, and Safari */
   *::-webkit-scrollbar {
